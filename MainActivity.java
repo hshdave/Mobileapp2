@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void clicked(View view)
     {
        Snackbar.make(view,"SnackBar",Snackbar.LENGTH_LONG).show();
-
+        //
 
     }
 }
